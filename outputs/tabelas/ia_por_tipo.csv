@@ -1,0 +1,49 @@
+﻿pais,cargo,tipo_ia,vagas,pct_das_que_pedem_ia,pct_de_todas_as_vagas
+Brasil,Analista,IA generativa / LLMs,57,30.8,8.0
+Brasil,Analista,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",35,18.9,4.9
+Brasil,Analista,Prompt engineering,10,5.4,1.4
+Brasil,Analista,Agentes de IA,22,11.9,3.1
+Brasil,Analista,RAG / LangChain / vetores,12,6.5,1.7
+Brasil,Analista,"Só ""IA"", sem especificar",97,52.4,13.6
+Brasil,Cientista,IA generativa / LLMs,50,64.9,33.8
+Brasil,Cientista,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",11,14.3,7.4
+Brasil,Cientista,Prompt engineering,14,18.2,9.5
+Brasil,Cientista,Agentes de IA,13,16.9,8.8
+Brasil,Cientista,RAG / LangChain / vetores,29,37.7,19.6
+Brasil,Cientista,"Só ""IA"", sem especificar",25,32.5,16.9
+Brasil,Engenheiro,IA generativa / LLMs,28,41.2,13.1
+Brasil,Engenheiro,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",9,13.2,4.2
+Brasil,Engenheiro,Prompt engineering,7,10.3,3.3
+Brasil,Engenheiro,Agentes de IA,16,23.5,7.5
+Brasil,Engenheiro,RAG / LangChain / vetores,19,27.9,8.9
+Brasil,Engenheiro,"Só ""IA"", sem especificar",26,38.2,12.2
+Brasil,Todos,IA generativa / LLMs,135,40.9,12.5
+Brasil,Todos,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",55,16.7,5.1
+Brasil,Todos,Prompt engineering,31,9.4,2.9
+Brasil,Todos,Agentes de IA,51,15.5,4.7
+Brasil,Todos,RAG / LangChain / vetores,60,18.2,5.6
+Brasil,Todos,"Só ""IA"", sem especificar",148,44.8,13.8
+EUA,Analista,IA generativa / LLMs,20,19.8,3.6
+EUA,Analista,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",19,18.8,3.4
+EUA,Analista,Prompt engineering,5,5.0,0.9
+EUA,Analista,Agentes de IA,5,5.0,0.9
+EUA,Analista,RAG / LangChain / vetores,1,1.0,0.2
+EUA,Analista,"Só ""IA"", sem especificar",64,63.4,11.6
+EUA,Cientista,IA generativa / LLMs,47,42.0,17.9
+EUA,Cientista,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",10,8.9,3.8
+EUA,Cientista,Prompt engineering,10,8.9,3.8
+EUA,Cientista,Agentes de IA,19,17.0,7.3
+EUA,Cientista,RAG / LangChain / vetores,14,12.5,5.3
+EUA,Cientista,"Só ""IA"", sem especificar",48,42.9,18.3
+EUA,Engenheiro,IA generativa / LLMs,50,33.1,14.2
+EUA,Engenheiro,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",23,15.2,6.6
+EUA,Engenheiro,Prompt engineering,4,2.6,1.1
+EUA,Engenheiro,Agentes de IA,26,17.2,7.4
+EUA,Engenheiro,RAG / LangChain / vetores,21,13.9,6.0
+EUA,Engenheiro,"Só ""IA"", sem especificar",70,46.4,19.9
+EUA,Todos,IA generativa / LLMs,117,32.1,10.1
+EUA,Todos,"Ferramentas (ChatGPT, Copilot, Gemini, Claude)",52,14.3,4.5
+EUA,Todos,Prompt engineering,19,5.2,1.6
+EUA,Todos,Agentes de IA,50,13.7,4.3
+EUA,Todos,RAG / LangChain / vetores,36,9.9,3.1
+EUA,Todos,"Só ""IA"", sem especificar",182,50.0,15.6

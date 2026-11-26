@@ -1,0 +1,9 @@
+﻿pais,cargo,vagas,pedem_ia,pct_pede_ia,ic95_min,ic95_max,pct_requisito,pct_tarefa,pct_so_diferencial,pct_menciona_ia,pct_cita_ml
+Brasil,Analista,715,185,25.9,22.8,29.2,17.5,4.2,4.2,31.2,10.3
+Brasil,Cientista,148,77,52.0,44.0,59.9,37.2,9.5,5.4,60.8,79.1
+Brasil,Engenheiro,213,68,31.9,26.0,38.5,17.8,7.0,7.0,42.3,15.0
+Brasil,Todos,1076,330,30.7,28.0,33.5,20.3,5.5,4.9,37.5,20.7
+EUA,Analista,551,101,18.3,15.3,21.8,13.2,2.2,2.9,26.5,12.9
+EUA,Cientista,262,112,42.7,36.9,48.8,29.4,8.4,5.0,53.4,74.0
+EUA,Engenheiro,351,151,43.0,37.9,48.2,33.0,4.3,5.7,56.1,32.8
+EUA,Todos,1164,364,31.3,28.7,34.0,22.9,4.2,4.2,41.5,32.6
